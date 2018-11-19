@@ -1,15 +1,33 @@
 ### Date created
-Include the date you created this project and README file.
-
+10/14/2018
 ### Project Title
-Replace the Project Title
+Analyzing Bike-share use data of three US cities
 
 ### Description
-Describe what your project is about and what it does
+Bike transportation is an efficient and agile alternative for users in big and
+crowded cities. Based on bike-user traffic data from three major US cities,
+a simple python script reads, processes data, and allows a user to interact with
+a terminal to compute basic statistics and patterns of bike usage patterns.
 
 ### Files used
-Include the files used
+bikeshare_final.py
+
+Data files from three cities (Chicago, New York, Washington):
+chicago.csv, new_york_city.csv, washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Data retrieved from:
+https://www.motivateco.com/
 
+Sources consulted for improving code readability:
+
+Python official documentation:
+https://docs.python.org/3/tutorial/datastructures.html
+
+Using pandas for data manipulation:
+https://www.datacamp.com/community/data-science-cheatsheets?page=4
+
+Chapter two ("A crash course in python") in Data Science from Scratch
+(...) by Joel Grus
+http://shop.oreilly.com/product/0636920033400.do
