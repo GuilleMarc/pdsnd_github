@@ -1,7 +1,7 @@
 ### Date created
-10/14/2018
+10/15/2018
 ### Project Title
-Analyzing Bike-share use data of three US cities
+Analyzing bike-share use data of three US cities
 
 ### Description
 Bike transportation is an efficient and agile alternative for users in big and
@@ -22,7 +22,6 @@ Data retrieved from:
 https://www.motivateco.com/
 
 Sources consulted for improving code readability:
-
 Python official documentation:
 https://docs.python.org/3/tutorial/datastructures.html
 
