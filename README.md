@@ -6,8 +6,9 @@ Analyzing Bike-share use data of three US cities
 ### Description
 Bike transportation is an efficient and agile alternative for users in big and
 crowded cities. Based on bike-user traffic data from three major US cities,
-a simple python script reads, processes data, and allows a user to interact with
-a terminal to compute basic statistics and patterns of bike usage patterns.
+a simple python script was written to read and process data, such that users
+can interact with a terminal and compute basic statistics and patterns
+of bike usage patterns.
 
 ### Files used
 bikeshare_final.py
