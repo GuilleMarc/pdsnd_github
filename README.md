@@ -1,7 +1,7 @@
 ### Date created
 10/15/2018
 ### Project Title
-Analyzing bike-share use data of three US cities
+Analyzing bike-share use data in the US
 
 ### Description
 Bike transportation is an efficient and agile alternative for users in big and
