@@ -35,7 +35,6 @@ def get_filters():
         print('\n Currently we have data from january to june only ')
         month= input('Which month you want your data summaries for, e.g(june, or "all" if no filter needed) :')
 
-
         day= input('\n What day of the week you want your summaries for, e.g(friday, or "all" if no filter needed) :')
 
         ### Checking if inputs meet conditions: e.g. lowercase only:
@@ -73,7 +72,7 @@ def load_data(city, month, day):
     # filter by month if applicable
     if month != 'all':
         # use the months series to get the month index (see line 14)
-        month= months[months == month].index[0]+1
+        month= months[months == month].index[0] + 1
         # filter by month to create the new dataframe
         df = df[df.month == month]
 
