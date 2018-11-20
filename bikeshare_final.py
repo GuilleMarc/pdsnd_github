@@ -203,7 +203,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        want_raw= input('\nWould you like to see a few data we based our calculations on? \n')
+        want_raw= input('\nWould you like to see a few data used in our calculations? \n')
         if want_raw == 'yes':
             print('\n Dataset for {}'.format(city))
             print(df.head())
